@@ -1,6 +1,23 @@
 .kid-container{
     background-color:#89cff0 ;
 }
+.jumbotron {
+    text-align: center;
+    background-color: #C8C15B;
+    background-image: url(../images/cm.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 10%;
+    padding: 30%; 
+  }
+
+#carouselExampleIndicators{
+    text-align: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0%;
+    padding: 0%;  
+} 
 h2{
     text-align:center;
 
