@@ -31,3 +31,8 @@ function rotater() {
 }
 window.onload=rotater;
 //-->
+
+// jquery animations
+$(document).ready(function(){
+    $("#animals").hide().show("slow");
+});
